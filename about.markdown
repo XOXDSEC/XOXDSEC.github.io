@@ -1,18 +1,14 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m **XOXDSEC** — a cybersecurity professional focused on:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Threat Hunting
+- Malware Analysis
+- Digital Forensics & Incident Response (DFIR)
+- AppSec
+- Red/Blue Team Labs & Learning
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog is a place to share my knowledge and progress through the cybersec world.
